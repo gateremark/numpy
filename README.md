@@ -1,5 +1,6 @@
 # Numpy
 ~Numpy for beginners
+...use Jupyter Notebook
 
 Made easy-follow up code for beginners in Numpy.
 Credits to Keith Galli
